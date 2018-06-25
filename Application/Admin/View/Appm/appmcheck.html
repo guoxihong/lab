@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/layui/css/layui.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/public.css">
+  <script type="text/javascript" src="__PUBLIC__/Admin/js/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="__PUBLIC__/layui/layui.js"></script>
+  <script type="text/javascript" src="__PUBLIC__/Admin/js/main.js"></script>
+  <style type="text/css">
+  .check-pass { color: #2EB62B; font-weight: bold; }
+  .check-no { color: red; font-weight: bold;}
+  </style>
+  <script type="text/javascript">
+      $(function(){
+          //预约审核：点击通过或不通过按钮
+          $(".check-pass,.check-no").click(function(){
+            var $val = $(this).html();
+            var $id = $(this).attr("name");
+            var _this = $(this);
+            $.ajax({
+              type : "POST",
+              url : "__CONTROLLER__/checkstate", 
+              data : {"val":$val,"id":$id},
+              success : function(data){
+                if(data == "通过"){
+                  _this.parent().next().remove();
+                  _this.parent().attr("colspan",2).html("通过").css("color","#2EB62B");
+                }else if(data == "不通过"){
+                  _this.parent().prev().remove();
+                  _this.parent().attr("colspan",2).html("不通过").css("color","red");
+                }
+              }
+            });
+          });
+            //预约审核：通过为绿色字，不通过为红色字
+            $(".after-check").each(function(){
+              if($(this).html() == "通过"){
+                $(this).css("color","#2EB62B");
+              }else if($(this).html() == "不通过"){
+                $(this).css("color","red");
+              }
+
+            });
+      });
+  </script>
+</head>
+<body>
+   <h1 class="h-title">查询预约信息</h1>
+        <div class="table-box">
+           <table class="layui-table">
+              <thead>
+                <tr>
+                   <th>序号</th>
+                   <th>预约人</th>
+                   <th>预约实验室</th>
+                   <th>实验项目</th>
+                   <th>预约日期</th>
+                   <th>预约时间段</th>
+                   <th>手机号码</th>
+                   <th>用户类型</th>
+                   <th colspan="2">审核状态</th>
+                </tr>
+              </thead>
+              <tbody>
+                 <volist name="list" id="vo">
+                     <tr>
+                        <td>{$i}</td>
+                        <td>{$vo.af_user}</td>
+                        <td>{$vo.af_labname}</td>
+                        <td>{$vo.af_project}</td>
+                        <td>{$vo.af_date}</td>
+                        <td>{$vo.af_time}</td>
+                        <td>{$vo.af_phone}</td>
+                        <td>{$vo.af_type}</td>
+                        <if condition="$vo.af_check eq ''">
+                            <td><a class="check-pass" name="{$vo.af_id}" href="javascript:;">通过</a></td>
+                            <td><a class="check-no" name="{$vo.af_id}" href="javascript:;">不通过</a></td>
+                        <else />
+                            <td colspan="2" class="after-check">{$vo.af_check}</td>
+                        </if>
+                        
+                     </tr> 
+                 </volist>
+                      <tr>
+                         <td colspan="10">{$pagestr}</td>
+                      </tr>
+              </tbody>
+           </table>
+        </div>
+</body>
+</html>

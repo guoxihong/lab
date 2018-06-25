@@ -1,0 +1,10 @@
+body { font-family: "微软雅黑"; }
+.table-box table{ width: 1000px; margin: 50px auto; }
+.table-box table td,.table-box table th{ text-align: center; border: 1px solid #ccc; height: 30px; line-height: 30px; }
+.i-nav { position: relative; }
+.i-nav .login-info { position: absolute; height: 60px;  right: 30px; top:0;  }
+.i-nav .login-info p { display: inline-block; margin-right: 30px; line-height: 60px; color: #c2c2c2; }
+.i-nav .login-info a { color: #c2c2c2; }
+.i-nav .login-info a:hover { color: #fff; }
+
+.mydiv { width: 1000px; margin: 40px auto; }

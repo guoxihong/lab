@@ -1,0 +1,18 @@
+[ 2016-12-13T10:56:09+08:00 ] 127.0.0.1 /lab/index.php/Application/Admin/Controller/AppmController.class.php/checkstate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-12-13T10:56:24+08:00 ] 127.0.0.1 /lab/index.php/Application/Admin/Controller/AppmController.class.php/checkstate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2016-12-13T10:56:29+08:00 ] 127.0.0.1 /lab/index.php/Application/Admin/Controller/AppmController.class.php/checkstate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+

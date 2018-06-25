@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4,p,dl,dd,ul,ol,form,input,textarea,th,td,select{margin: 0; padding: 0; }
+em,strong{font-style: normal;}
+li{list-style: none;}
+a{text-decoration: none; background-color: transparent;}
+a:active,a:hover {outline: 0;}
+img{border:0; vertical-align: top; }
+table{border-collapse: collapse; }
+input,textarea{outline: none;}
+textarea{resize: none; overflow: auto;}
+body{font-size: 12px; font-family: "微软雅黑";}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+audio,canvas,progress,video {  display: inline-block; vertical-align: baseline;}

@@ -1,0 +1,6 @@
+[ 2017-03-13T15:46:25+08:00 ] ::1 /lab/index.php/re/index/g_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Re
+

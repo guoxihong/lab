@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/layui/css/layui.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/public.css">
+	<script type="text/javascript" src="__PUBLIC__/layui/layui.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Admin/js/main.js"></script>
+</head>
+<body>
+   <h1 class="h-title">修改实验室信息</h1>
+   <div class="stu-form">
+      <form class="layui-form" action="__MODULE__/Lab/labUpdate/lab_id/{$data.lab_id}" method="post">
+        <div class="layui-form-item">
+          <label class="layui-form-label">实验室名称</label>
+          <div class="layui-input-block">
+            <input type="text" name="lab_name" required  lay-verify="required"  autocomplete="off" class="layui-input" value="{$data.lab_name}">
+          </div>
+        </div>
+        <div class="layui-form-item">
+          <label class="layui-form-label">实验室地址</label>
+          <div class="layui-input-block">
+            <input type="text" name="lab_address" required  lay-verify="required"  autocomplete="off" class="layui-input" value="{$data.lab_address}">
+          </div>
+        </div>
+        
+        <div class="layui-form-item">
+          <label class="layui-form-label">实验室用途</label>
+          <div class="layui-input-block">
+            <input type="text" name="lab_use" required  lay-verify="required"  autocomplete="off" class="layui-input" value="{$data.lab_use}">
+          </div>
+        </div>
+        
+        <div class="layui-form-item layui-form-text">
+           <label class="layui-form-label">备注</label>
+           <div class="layui-input-block">
+              <textarea  name="lab_remark" class="layui-textarea">{$data.lab_remark}</textarea>
+           </div>
+        </div>
+       
+        <div class="layui-form-item">
+          <div class="layui-input-block">
+            <button class="layui-btn" lay-submit>立即提交</button>
+            <a href="__CONTROLLER__/lablist" class="layui-btn layui-btn-primary">返回</a>
+          </div>
+        </div>
+      </form>
+   </div>
+
+
+  
+
+	
+</body>
+</html>

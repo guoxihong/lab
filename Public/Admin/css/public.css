@@ -1,0 +1,4 @@
+.h-title { font-size: 18px; font-weight: bold; height: 50px; line-height: 50px; padding-left: 20px;}
+.stu-form { width: 500px; margin: 50px auto; }
+.table-box table{ width: 1000px; margin: 50px auto; }
+.table-box table td,.table-box table th{ text-align: center; border: 1px solid #ccc; height: 30px; line-height: 30px; }

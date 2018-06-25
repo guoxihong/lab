@@ -1,0 +1,30 @@
+body { background-color: #48609E; }
+.l_top { min-width: 1360px; }
+.l_top img { margin:20px 0 20px 80px;}
+.l_top .lt_nav { float: right; margin-top: 20px; margin-right: 34px;}
+.lt_nav li { float: left;}
+.lt_nav li a { display: block; height: 50px; line-height: 50px; color: #fff; font-size: 16px; margin-right: 46px; transition: 0.2s;  }
+.lt_nav li a:hover { color: #AFC2D7; }
+.l_content { padding: 120px 80px 0 80px; overflow: hidden; height: 400px; min-width: 1200px; }
+.l_content .lc_left { width: 590px; float: left; margin-right: 100px; }
+.lc_left h1 { height: 50px; line-height: 50px; font-size: 36px; color: #fff; font-weight: 500; margin-bottom: 20px; }
+.lc_left p { color: #C6CBD5; font-weight: 500; font-size: 26px; line-height: 40px; margin-bottom: 20px; }
+.lc_left a { display: inline-block; width: 170px; height: 50px; line-height: 50px; background-color: #0E9E7A; color: #fff; text-align: center; font-size: 18px; border-radius: 5px; }
+.lc_left a:hover { background-color: #0C906F; }
+.l_content .lc_right { float: right; width: 350px; height: 300px; padding-left:40px;  background-color: #fff; border-radius:10px; box-shadow: 2px 2px 5px #373737;  }
+.lc_right h4 { height: 60px; line-height: 60px; font-size: 14px; font-weight: bold; }
+.lc_right .m_text{ width: 300px; height: 40px; border: 1px solid #e5e5e5; margin-bottom: 15px; }
+.lc_right .m_text span{ display: inline-block; height: 40px; width: 44px; float: left; border-right: 1px solid #e5e5e5; }
+.lc_right .m_text input{ width: 245px; height: 40px; border:none; padding-left: 5px; }
+.lc_right .m_text:nth-of-type(1) span{ background: url(../img/2.png) no-repeat;  }
+.lc_right .m_text:nth-of-type(2) span{ background: url(../img/3.png) no-repeat;  }
+.lc_right label{ color: #999; cursor: pointer; }
+.lc_right label input{ vertical-align: middle; margin-top: -2px; margin-bottom: 1px; }
+.lc_right .m_lost{ color: #999; margin-left: 50px; }
+.lc_right .m_register{ color: #999; margin-left: 72px; }
+.lc_right .m_lost:hover,.lc_right .m_register:hover{color:#E83512; }
+.lc_right .m_btn{width: 300px; height: 35px; margin-top: 20px; background-color: #cc2931; color: #fff;  font-size: 14px; font-weight: bold; border: none; border-radius: 5px; cursor: pointer;}
+.lc_right .m_btn:hover{ background-color: #f42a2a; }
+.m_close{position: absolute; right: -15px;top: -15px; width: 30px; height: 30px; background-color: #fff; border-radius: 50%;box-shadow: -3px 3px 5px #ccc; background:#fff url(../images/close.png) no-repeat center center;}
+
+

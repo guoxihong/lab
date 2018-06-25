@@ -1,0 +1,90 @@
+[ 2016-12-10T13:08:22+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:08:48+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:08:49+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:08:49+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:08:50+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:09:17+08:00 ] ::1 /lab/index.php/lab/index.php/Index/index/id/123123.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lab
+
+[ 2016-12-10T13:09:35+08:00 ] ::1 /lab/index.php/lab/index.php/Index/index/id/123123.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Lab
+
+[ 2016-12-10T13:09:35+08:00 ] ::1 /lab/index.php/lab/index.php/Index/index/id/123123.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Lab
+
+[ 2016-12-10T13:09:50+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:10:36+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:10:38+08:00 ] ::1 /lab/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:11:11+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T13:11:38+08:00 ] ::1 /lab/index.php/Index/index/id/123123.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-12-10T14:34:10+08:00 ] ::1 /lab/index.php/head/name/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Head
+
+[ 2016-12-10T14:34:47+08:00 ] ::1 /lab/index.php/head/name/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Head
+

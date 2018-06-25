@@ -1,0 +1,3231 @@
+[ 2017-03-20T09:51:46+08:00 ] ::1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T09:51:46+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-03-20T15:42:03+08:00 ] ::1 /lab/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T15:42:03+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T15:42:14+08:00 ] ::1 /lab/index.php/Home/person/stuadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Person
+
+[ 2017-03-20T15:45:08+08:00 ] ::1 /lab/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T15:45:08+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:17:35+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:17:36+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:17:42+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:17:42+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:19:11+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:19:11+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:19:29+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:19:29+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:21:06+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:21:06+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:22:34+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:22:34+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:23:13+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:23:14+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:26:46+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:26:46+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:26:58+08:00 ] 127.0.0.1 /lab/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: name D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:28:42+08:00 ] 127.0.0.1 /lab/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:28:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:28:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:30:01+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 76 行.
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: name D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 101 行.
+NOTIC: [8] Undefined index: labname D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:30:42+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:30:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:30:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:31:06+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appmsuccess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 116 行.
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 117 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 120 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:32:10+08:00 ] 127.0.0.1 /lab/index.php/Home/index/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:32:13+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:32:13+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:33:13+08:00 ] 127.0.0.1 /lab/index.php/Home/index/blog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 220 行.
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 221 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 222 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:33:49+08:00 ] 127.0.0.1 /lab/index.php/Home/index/blog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:33:52+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:33:52+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:05+08:00 ] 127.0.0.1 /lab/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:08+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:08+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-03-20T16:34:41+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg/0.06896329096974263
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE `st_no` = '130201011005' AND `st_pwd` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-20T16:34:45+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:49+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:51+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:52+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:53+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/503/type/%E5%AD%A6%E7%94%9F/user/130201011005.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:34:59+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/503/type/%E5%AD%A6%E7%94%9F/user/130201011005.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:05+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 62 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:06+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/502.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 76 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 77 行.
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:08+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user//type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:10+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 98 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 106 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 116 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 124 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 131 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 148 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:19+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:21+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 98 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 106 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 116 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 124 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 131 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 148 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:25+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:26+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:33+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:34+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:34+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:35+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:49+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg/0.9393604532450531
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:53+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE `st_no` = '130201011005' AND `st_pwd` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-20T16:35:53+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:35:57+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:00+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/503/type/%E5%AD%A6%E7%94%9F/user/130201011005.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:04+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:06+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:09+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/blog/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:15+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:17+08:00 ] 127.0.0.1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/503/type/%E5%AD%A6%E7%94%9F/user/130201011005.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:21+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 62 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:23+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user//type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:24+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:25+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:26+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:27+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:27+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:31+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:32+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/blog/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 222 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:34+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 98 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 106 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 116 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 124 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 131 行.
+NOTIC: [8] Undefined variable: data D:\wamp\www\lab\Application\Runtime\Cache\Home\c32ce1ba62d248c865a32a620b180fb9.php 第 148 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:36+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:37+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:36:38+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:38:20+08:00 ] 127.0.0.1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-03-20T16:38:26+08:00 ] ::1 /lab/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:26+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-03-20T16:38:28+08:00 ] ::1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:28+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:36+08:00 ] ::1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE `st_no` = '130201011005' AND `st_pwd` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-20T16:38:36+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:39+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:41+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:42+08:00 ] ::1 /lab/index.php/Home/index/appm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/labname/503/type/%E5%AD%A6%E7%94%9F/user/130201011005.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appmtime` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_appmtime`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:49+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: user D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 62 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:38:54+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user//type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:38:56+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/type/type/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: type D:\wamp\www\lab\Application\Home\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:20+08:00 ] ::1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:20+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:21+08:00 ] ::1 /lab/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:21+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:27+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg/0.5403641689561653
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:30+08:00 ] ::1 /lab/index.php/Home/Login/verifyImg/0.5792005040832027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:34+08:00 ] ::1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE `st_no` = '130201011005' AND `st_pwd` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-20T16:39:34+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:53+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:54+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:39:55+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:40:12+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:41:39+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:41:40+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:41:43+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:41:44+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:41:44+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:42:20+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:42:33+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:42:35+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:43:21+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:43:23+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:43:25+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:43:28+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:43:53+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:43:55+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:43:56+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-03-20T16:43:57+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:00+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:00+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:02+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:44:03+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:04+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:05+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:06+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:07+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:09+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:09+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:11+08:00 ] ::1 /lab/index.php/Home/Index/blog/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:12+08:00 ] ::1 /lab/index.php/Home/Index/blog/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:13+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:13+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:14+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:15+08:00 ] ::1 /lab/index.php/Home/Index/detail/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_appminfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_appminfo` WHERE `af_user` = '陈永信'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:16+08:00 ] ::1 /lab/index.php/Home/Index/personal/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_stuinformation` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_stuinformation` WHERE (  st_no = 130201011005 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:44:21+08:00 ] ::1 /lab/index.php/Home/Index/blog/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_blog` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_blog` ORDER BY bl_id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 98 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 99 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\fff9dd2af927d97bb62aebd3a0c98c4c.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:22+08:00 ] ::1 /lab/index.php/Home/Index/startAppm/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `gx_lab` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gx_lab` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `gx_lab` LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 41 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 42 行.
+NOTIC: [8] Undefined variable: ctType D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 44 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+NOTIC: [8] Use of undefined constant lab_name - assumed 'lab_name' D:\wamp\www\lab\Application\Runtime\Cache\Home\854fdfdfa9430c49cd5a806c0c27af22.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:22+08:00 ] ::1 /lab/index.php/Home/Index/index/name/%E9%99%88%E6%B0%B8%E4%BF%A1/user/130201011005/type/%E5%AD%A6%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gx_annm` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gx_annm`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_notice` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_notice`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gx_control` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `gx_control` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-20T16:44:28+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-20T16:44:28+08:00 ] 127.0.0.1 /lab/index.php/Home/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
